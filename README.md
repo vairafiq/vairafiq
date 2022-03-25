@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[SovWare](https://sovware.com/)**
+- 🔭 I’m currently working on **[Directorist](https://directorist.com/)**
 
 - 🌱 I’m currently learning **React**
 
