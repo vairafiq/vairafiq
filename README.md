@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[SovWare](https://sovware.com/)**
 
-- 🌱 I’m currently learning **Python & Django**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **[SovWare](https://sovware.com/)**
 
@@ -16,9 +16,9 @@
 
 - 💭 Ask me about **Anythings**
 
-- 📫 How to reach me **rafiq.sovware@gmail.com**
+- 📫 How to reach me **vairafiq@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **Cycling, Cricket, Swimming**
 
 ## 🚀 Languages and Tools:
 
@@ -61,9 +61,7 @@
 <p align="left">
 
 <a href = "https://github.com/vairafiq"><img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" width="40" height="40"/></a>
-<a href = "https://www.facebook.com/ashikur.rohmanko/"><img src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" width="40" height="40"/></a>
-<a href = "https://www.instagram.com/_ashik__rahman/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC5zbTdq0Gi9zQXod2SBMQfw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.facebook.com/islam4580/"><img src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" width="40" height="40"/></a>
 
 </p>
 
