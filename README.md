@@ -2,6 +2,9 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rafiqul Islam</h1>
 <h3 align="center">I'm a WordPress Plugin Developer from Bangladesh.</h3>
+<p>Here's a possible way to beautify the text:
+
+I have a fondness for simplicity and tend to approach tasks by breaking them down into smaller pieces. I believe that managing my personal life smartly is just as important as managing my profession. When it comes to work, I'm all about Agile and Scrum methodologies - I don't like to work in a relaxed manner. As a Scrum team lead, I prioritize collaboration over personal excellence.</p>
 
 
 ## 🙋‍♂️ About Me
